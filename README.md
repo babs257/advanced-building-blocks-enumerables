@@ -2,7 +2,7 @@
 # Solo Project: Advanced Building Blocks - Enumerables
 ## Project Specifications:
 
-This project consists of replicate enumerable methods of ruby. you can find the project specificatino (Project 2) [here](https://www.theodinproject.com/courses/ruby-programming/lessons/advanced-building-blocks)
+This project consists of replicate enumerable methods of ruby. you can find the project specification (Project 2) [here](https://www.theodinproject.com/courses/ruby-programming/lessons/advanced-building-blocks)
 
 
 ## Built With:
